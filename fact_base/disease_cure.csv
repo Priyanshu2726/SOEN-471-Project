@@ -1,0 +1,40 @@
+Disease,Diagnosis 1,Diagnosis 2,Diagnosis 3
+Apple___Apple_scab,liquid copper soap,bonide sulfur plant fungicide,orchard spray
+Apple___Black_rot,captan,lime sulfur,thiophanate-methyl
+Apple___Cedar_apple_rust,immunox,captan,chlorothalonil
+Apple___healthy,no pesticide,no pesticide,no pesticide
+Blueberry___healthy,no pesticide,no pesticide,no pesticide
+Cherry_(including_sour)___Powdery_mildew,green cure fungicide,sierra natural science sns 244 fungicide,lime sulfur
+Cherry_(including_sour)___healthy,no pesticide,no pesticide,no pesticide
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,"
+headline ec",quilt,proline 480 sc
+Corn_(maize)___Common_rust_,lime sulfur,orchard spray,organic pesticides
+Corn_(maize)___Northern_Leaf_Blight,foliar fungicides,bonide sulfur plant fungicide,organic pesticides
+Corn_(maize)___healthy,no pesticide,no pesticide,no pesticide
+Grape___Black_rot,sovran 50wg,flint 50wg,pristine 38wdg
+Grape___Esca_(Black_Measles),sodium arsenite,dinitro-orthocresol,fosetyl al foliar
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot),lime sulfur,,
+Grape___healthy,no pesticide,no pesticide,no pesticide
+Orange___Haunglongbing_(Citrus_greening),benzylpenicillin,dbnpa,
+Peach___Bacterial_spot, dodine 65 wp,captan 50 wp, mycoshield 
+Peach___healthy,no pesticide,no pesticide,no pesticide
+"Pepper,_bell___Bacterial_spot",cultural control,cultural control,cultural control
+"Pepper,_bell___healthy",no pesticide,no pesticide,no pesticide
+Potato___Early_blight,copper and pyrethrins,serenade garden,cultural control
+Potato___Late_blight,"zampro (ametoctradin + dimethomorph, basf)","ranman (cyazofamid, fmc)","revus top (mandipropamid + difenoconazole, syngenta)"
+Potato___healthy,no pesticide,no pesticide,no pesticide
+Raspberry___healthy,no pesticide,no pesticide,no pesticide
+Soybean___healthy,no pesticide,no pesticide,no pesticide
+Squash___Powdery_mildew,baking soda (sodium bicarbonate),potassium bicarbonate,lime sulfur
+Strawberry___Leaf_scorch,pristine (pyraclostrobin and boscalid),cabrio (pyraclostrobin),abound (azoxystrobin)
+Strawberry___healthy,no pesticide,no pesticide,no pesticide
+Tomato___Bacterial_spot,copper bactericides ,actigard,bacteriophages
+Tomato___Early_blight,copper and pyrethrins,serenade garden,"revus top (mandipropamid + difenoconazole, syngenta)"
+Tomato___Late_blight,"zampro (ametoctradin + dimethomorph, basf)","ranman (cyazofamid, fmc)","revus top (mandipropamid + difenoconazole, syngenta)"
+Tomato___Leaf_Mold,chlorothalonil,maneb,mancozeb
+Tomato___Septoria_leaf_spot,copper bactericides,"ranman (cyazofamid, fmc)",lime sulfur
+Tomato___Spider_mites Two-spotted_spider_mite,abamectin,bifenazate, hexythiazox
+Tomato___Target_Spot,copper bactericides,cultural control,sodium arsenite
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,dinotefuran,imidacloprid,thiamethoxam
+Tomato___Tomato_mosaic_virus,no chemical option,,
+Tomato___healthy,no pesticide,no pesticide,no pesticide
