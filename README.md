@@ -15,9 +15,10 @@ Dataset Characteristics:
 
 Research Questions
 
-1.	Accuracy of Diagnosis: How accurately can the neural expert system identify plant diseases based on visual symptoms in the given dataset?
-2.	Generalization: How well does the model generalize to different plant species and environmental conditions?
-3.	Diversification: How does the size and diversity of the training dataset impact the performance and generalization ability of the neural expert system for plant disease diagnosis?
+1.	How accurately can the sequential model and decision tree model identify plant diseases based on visual symptoms in the given dataset?
+2.	How well does the model generalize to different plant species?
+3.	What are the strengths and limitations of using a Sequential model for plant disease detection in comparison to Decision Tree?
+
 
 Model Design
 
